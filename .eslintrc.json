@@ -14,7 +14,7 @@
   "extends": ["plugin:react/recommended", "plugin:react/jsx-runtime"],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "semi": [2, "always"]
+    "semi": [0, "always"]
   },
   "settings": {
     "react": {
